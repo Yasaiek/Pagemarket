@@ -17,7 +17,9 @@ body {
 
 
 header h1 {
-    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     }
 
 .containermain {
@@ -140,7 +142,9 @@ h1 {
 .link-profil {
     text-decoration: none;
     color: rgb(0, 131, 238);
-    margin-left: 165px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
