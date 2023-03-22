@@ -25,7 +25,7 @@ header h1 {
 .containermain {
     border: 2.5px solid #03f7ff;
     margin-top: 50px;
-    margin-left: 300px;
+    margin-left: 350px;
     display: flex;
     justify-content: center;
     gap: 100px;
